@@ -6,7 +6,7 @@ First Round
 4. Aptitude
 #
 Second Round
-1.Coding
+1. Coding
 #
 Third Round
 1. Technical HR
